@@ -10,3 +10,7 @@ __pycache__/
 *.log
 *.env
 venv/
+discourse_threads_md/
+discourse_threads/
+tools-in-data-science-public/
+tds_discourse.json
