@@ -1,0 +1,12 @@
+Archive/
+*.ipynb
+*.csv
+*.xlsx
+*.pyc
+__pycache__/
+*.md
+*.yaml
+*.yml
+*.log
+*.env
+venv/

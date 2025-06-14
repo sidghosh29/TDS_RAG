@@ -1,0 +1,2608 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 508076,
+        "name": "Sarfraz Ahmed",
+        "username": "23ds1000034",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds1000034/{size}/66738_2.png",
+        "created_at": "2024-07-29T02:42:05.733Z",
+        "cooked": "<p>Hello Sir, <a class=\"mention\" href=\"/u/s.anand\">@s.anand</a> <a class=\"mention\" href=\"/u/carlton\">@carlton</a></p>\n<p>As TDS is one of the most important courses in the data science diploma, I respectfully want to bring up a concern. The TDS roe exam is almost impossible to solve within the given time frame. While the team might aim to develop certain skills in students, I would like you to consider this: having an exam that is nearly impossible to complete in the allotted time which is a statement by your side…</p>\n<p>My question is, why is this exam graded and carrying  20% weightage towards the final grade? Is this fair? we are loosing marks for the exam in which almost no one can score average. This situation is causing CGPAs to drop significantly. I request the team to consider this issue. Either make this exam ungraded or reduce its weightage. This is a very serious issue, as many of us are struggling to maintain good CGPAs to progress to the degree level.</p>\n<p>Thank you for your consideration.</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-07-29T02:43:10.981Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 55,
+        "reads": 340,
+        "readers_count": 339,
+        "score": 417.2,
+        "yours": false,
+        "topic_id": 141413,
+        "topic_slug": "is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe",
+        "display_username": "Sarfraz Ahmed",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 5,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17075,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe/141413/1",
+        "user_cakedate": "2023-06-02",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 5
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 5,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true,
+        "can_vote": false
+      },
+      {
+        "id": 508090,
+        "name": "NandanReddy Parnapalli",
+        "username": "nandanreddyp",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/nandanreddyp/{size}/111940_2.png",
+        "created_at": "2024-07-29T02:56:08.294Z",
+        "cooked": "<p>I completely understand and share the concerns about the time constraints of the TDS exam. Given the challenging nature of the test, it seems quite difficult to complete all the questions within the allotted 45 minutes.</p>\n<p>I believe even the course team would find it challenging to solve this exam in such a short time frame.</p>\n<blockquote>\n<p>Perhaps considering a percentile-based grading system could be a fairer approach, as it would better reflect the relative performance of all students.</p>\n</blockquote>\n<p>This way, we can ensure that the grading is equitable and does not unfairly impact our CGPAs. I hope the team can consider this suggestion.</p>",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-07-29T02:56:08.294Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 37,
+        "reads": 366,
+        "readers_count": 365,
+        "score": 272.4,
+        "yours": false,
+        "topic_id": 141413,
+        "topic_slug": "is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe",
+        "display_username": "NandanReddy Parnapalli",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15682,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe/141413/2",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 508098,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-07-29T03:35:53.955Z",
+        "cooked": "<p><a class=\"mention\" href=\"/u/23ds1000034\">@23ds1000034</a> <a class=\"mention\" href=\"/u/nandanreddyp\">@nandanreddyp</a></p>\n<p>TDS ROE is a reality check on your true skills. Rather than face FAANG type tests when it really matters and get a shock that you are at the bottom of the pile, it is better you face reality now in an environment that does not unduly penalises you.</p>\n<blockquote>\n<p>This situation is causing CGPAs to drop significantly.</p>\n</blockquote>\n<p>While that seems like a nice sound bite, let’s look at the data as true data scientists rather than let emotion lead our thoughts.</p>\n<p>If you get an S in TDS, its weight to your total Diploma CGPA will be 5.55%.<br>\nWhen you consider that ROE is worth 20% of that, the overall effect on your diploma CGPA at BEST is 1.11% if you score 100% in it. The TRUE effect <strong>is lower</strong> if you take into consideration you can offset at least 25% of that loss with bonus questions (worth 5% of the TDS grade)!</p>\n<blockquote>\n<p>This is a very serious issue</p>\n</blockquote>\n<p>A little over dramatic a statement considering the data we now have considered above. The  reality is the ROE is worth 0.83% of your overall diploma CGPA (and that too this is the worst case, i.e. for direct diploma students! For those that started from foundation its impact <strong>is even smaller! 0.52%)</strong></p>\n<p>What is my opinion on ROE? It made me a better student. I was truly humbled by the experience. It gave me a realistic view of my abilities and the level I need to attain so that I can be confident in the value I am adding to the client. Who is the client? The businesses I might deal with, the companies I contract for.</p>\n<p>If there was no value attached to the ROE (i.e. you have no stake in it) then all the evidence points to one very simple truth. Nearly no one taking it seriously.</p>\n<blockquote>\n<p>many of us are struggling to maintain good CGPAs to progress to the degree level.</p>\n</blockquote>\n<p>My mother has always said one thing to me. Its only an undergraduate degree. If you are struggling in year 2, then stop wasting your time, its not meant for you.</p>\n<p>ROE is not harsh. ROE is like my mother’s very wise advice. There are many, many examples of students dropping out of university and being successful in life. <strong>Do not waste your time,</strong> its more valuable than anything you possess. If you are struggling, to even maintain a 6 CGPA requirement to enter the degree level because of an ROE that contributes &gt; 0.834%, then the very best advice you will ever receive from me is: Do not waste your time with this degree.</p>\n<p>I say this with all sincerity and truth. I am living evidence, as are many others, you do not need this degree to succeed in life. The reason I am doing this degree is because I realised that I actually enjoy this course and I find real value from it and hope to make a difference for good with what I learn from it.</p>\n<p>Although it is called the impossible exam, our data shows that there are several students that have done well in the ROE. ROE is not harsh. It’s a reality check, its a mother’s advice and a very inexpensive, truthful and effective one.</p>\n<p>Humbly for your kind consideration</p>",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-09-11T14:49:55.278Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 10,
+        "reads": 359,
+        "readers_count": 358,
+        "score": 516.0,
+        "yours": false,
+        "topic_id": 141413,
+        "topic_slug": "is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 3,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/navigating-job-requirements-what-tech-skills-matter/147489/2",
+            "internal": true,
+            "reflection": true,
+            "title": "Navigating Job Requirements: What Tech Skills Matter",
+            "clicks": 2
+          },
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/navigating-job-requirements-what-tech-skills-matter/147489/4",
+            "internal": true,
+            "reflection": true,
+            "title": "Navigating Job Requirements: What Tech Skills Matter",
+            "clicks": 0
+          }
+        ],
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 26,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe/141413/3",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 20
+          },
+          {
+            "id": "clap",
+            "type": "emoji",
+            "count": 3
+          },
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 1
+          },
+          {
+            "id": "confetti_ball",
+            "type": "emoji",
+            "count": 1
+          },
+          {
+            "id": "rocket",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 26,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": true,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 508103,
+        "name": "Smita Dhadhal",
+        "username": "23f1001749",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1001749/{size}/107968_2.png",
+        "created_at": "2024-07-29T03:59:30.801Z",
+        "cooked": "<p>Carlton at his best again !!! <a class=\"mention\" href=\"/u/carlton\">@carlton</a> my apologies for being dramatic but I have been a TA for one of the foundational level courses and after that I gave up on being TA despite of having good grades in some subjects , to be honest at this point of time I envy you … You are nailing it as a TA …one of the best TAs I have seen in this course.<img src=\"https://emoji.discourse-cdn.com/google/clap.png?v=12\" title=\":clap:\" class=\"emoji\" alt=\":clap:\" loading=\"lazy\" width=\"20\" height=\"20\"><img src=\"https://emoji.discourse-cdn.com/google/clap.png?v=12\" title=\":clap:\" class=\"emoji\" alt=\":clap:\" loading=\"lazy\" width=\"20\" height=\"20\"></p>",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-07-29T03:59:30.801Z",
+        "reply_count": 1,
+        "reply_to_post_number": 3,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 318,
+        "readers_count": 317,
+        "score": 173.2,
+        "yours": false,
+        "topic_id": 141413,
+        "topic_slug": "is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe",
+        "display_username": "Smita Dhadhal",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 7,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 19251,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe/141413/4",
+        "user_cakedate": "2023-06-08",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 6
+          },
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 7,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 508207,
+        "name": "Swati Jain",
+        "username": "21f3000759",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png",
+        "created_at": "2024-07-29T07:44:14.762Z",
+        "cooked": "<p>Since ROE is done and whatever everyone has scored cannot be changed. Well, we can make up for the marks that we lost by having few more extra activities, if that’s possible <a class=\"mention\" href=\"/u/s.anand\">@s.anand</a> sir. That way we get back what we lost, improve CGPA (irrespective of whatever CGPA one has) and learn in the process that would be a win-win situation for everyone.</p>\n<p>Thanks &amp; Regards,<br>\nSwati Jain</p>",
+        "post_number": 7,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-07-29T07:44:14.762Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 278,
+        "readers_count": 277,
+        "score": 55.0,
+        "yours": false,
+        "topic_id": 141413,
+        "topic_slug": "is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe",
+        "display_username": "Swati Jain",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 6563,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe/141413/7",
+        "user_cakedate": "2021-09-06",
+        "user_birthdate": "1904-04-15",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 508279,
+        "name": "Anupam Chandra",
+        "username": "iitmanupam",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png",
+        "created_at": "2024-07-29T10:19:12.231Z",
+        "cooked": "<p><a class=\"mention\" href=\"/u/carlton\">@carlton</a>, we are mixing something straightforward as the ability to score an S or A grade in TDS with a philosophical outlook on the topic.</p>\n<p>The philosophy is helpful if the grades for most students are following a standard bell curve (average of all subjects or average of TDS over the last few semensters) and a few students are outliers in terms of the grading. For e.g., if I score a lower than expected grade and I am feeling demotivated, I can understand what you just wrote and it is indeed very much to the point.</p>\n<p>However, if the entire grading bell curve has shifted and most students are not scoring grades as per expectation, it is time for the instructors to consider whether the grading pattern needs to be tweaked (20% for an “impossible” ROE is perhaps on the higher side) or students need to be provided with alternate paths to a decent grade (like extra assignments for 10-20 marks in lieu of the loss of marks above mentioned ROE).</p>\n<p>I would like to reiterate that my observations above are only w.r.t. a standard grading bell curve for all subjects or for TDS from previous terms.</p>\n<p>Do note that all IITs follow normalization of marks and grades as a standard activity so that students can focus on learning and giving it their best rather than worrying about grades. This is not the case in this course, so we should think about alternative grading patterns without compromising on the rigour of the course in any way.</p>",
+        "post_number": 8,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-07-29T10:19:40.387Z",
+        "reply_count": 2,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 253,
+        "readers_count": 252,
+        "score": 90.0,
+        "yours": false,
+        "topic_id": 141413,
+        "topic_slug": "is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe",
+        "display_username": "Anupam Chandra",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15826,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe/141413/8",
+        "user_cakedate": "2023-01-25",
+        "user_birthdate": "1904-05-19",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 508302,
+        "name": "Saransh Saini",
+        "username": "Saransh_Saini",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/saransh_saini/{size}/123495_2.png",
+        "created_at": "2024-07-29T11:13:37.017Z",
+        "cooked": "<p>You can become a TA while doing the degree?? Never knew that, can you please lay out the process? It would be a fun and enriching experience for me.</p>",
+        "post_number": 9,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-07-29T11:13:37.017Z",
+        "reply_count": 2,
+        "reply_to_post_number": 4,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 262,
+        "readers_count": 261,
+        "score": 67.0,
+        "yours": false,
+        "topic_id": 141413,
+        "topic_slug": "is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe",
+        "display_username": "Saransh Saini",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Course TA",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 19251,
+          "username": "23f1001749",
+          "name": "Smita Dhadhal",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1001749/{size}/107968_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 13078,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe/141413/9",
+        "user_cakedate": "2022-05-02",
+        "user_birthdate": "1904-08-04",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 508304,
+        "name": "Arun",
+        "username": "Arun2",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/arun2/{size}/27130_2.png",
+        "created_at": "2024-07-29T11:14:59.771Z",
+        "cooked": "<aside class=\"quote group-ds-students\" data-username=\"iitmanupam\" data-post=\"8\" data-topic=\"141413\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/48/56694_2.png\" class=\"avatar\"> iitmanupam:</div>\n<blockquote>\n<p>a philosophical outlook on the topic</p>\n</blockquote>\n</aside>\n<p>There’s a lot of philosophy in there but that’s what makes it so entertaining to read his writing <img src=\"https://emoji.discourse-cdn.com/google/smiley.png?v=12\" title=\":smiley:\" class=\"emoji\" alt=\":smiley:\" loading=\"lazy\" width=\"20\" height=\"20\"></p>\n<aside class=\"quote group-ds-students\" data-username=\"iitmanupam\" data-post=\"8\" data-topic=\"141413\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/48/56694_2.png\" class=\"avatar\"> iitmanupam:</div>\n<blockquote>\n<p>if the entire grading bell curve has shifted</p>\n</blockquote>\n</aside>\n<p>Disagree with this if you mean the bell curve has shifted between terms. RoE has been really tough since the past 3 terms at least (I haven’t checked with students who did it before that, so I don’t know about those). Or if the issue is a bell curve mismatch between different subjects, we shouldn’t be expecting that to be perfect. Some of the subjects were extremely easy, but nobody complained about those <img src=\"https://emoji.discourse-cdn.com/google/smiley.png?v=12\" title=\":smiley:\" class=\"emoji\" alt=\":smiley:\" loading=\"lazy\" width=\"20\" height=\"20\"></p>\n<p>For what it’s worth, I also felt it was tough beyond reason. These sort of exams where the time required far exceeds the time given is more typical of competitive exams where the score isn’t important, only your rank is. All that being said, I still didn’t complain since the difficulty is “real”, and not made-up like with BDM theory/project. With the first, the difficulty comes from an extremely poor grading system, and with the second, from having to find a business that will share data. The subjects themselves don’t pose a significant intellectual challenge.</p>\n<p>Also, is an S at TDS really hard this term? I scored one last term despite a poor RoE performance. I’m unable to recall now whether they gave us some extra marks out of pity <img src=\"https://emoji.discourse-cdn.com/google/smiley.png?v=12\" title=\":smiley:\" class=\"emoji\" alt=\":smiley:\" loading=\"lazy\" width=\"20\" height=\"20\"></p>\n<p>PS: There is no implication from any of my remarks that I will stop sharing RoE jokes/memes <img src=\"https://emoji.discourse-cdn.com/google/wink.png?v=12\" title=\":wink:\" class=\"emoji\" alt=\":wink:\" loading=\"lazy\" width=\"20\" height=\"20\"></p>",
+        "post_number": 10,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-07-29T11:14:59.771Z",
+        "reply_count": 2,
+        "reply_to_post_number": 8,
+        "quote_count": 1,
+        "incoming_link_count": 94,
+        "reads": 265,
+        "readers_count": 264,
+        "score": 592.6,
+        "yours": false,
+        "topic_id": 141413,
+        "topic_slug": "is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe",
+        "display_username": "Arun",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-tds-course-difficulty-and-grading-fairness/168476/9",
+            "internal": true,
+            "reflection": true,
+            "title": "Concerns Regarding TDS Course Difficulty and Grading Fairness",
+            "clicks": 1
+          },
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-references-guidelines/67216",
+            "internal": true,
+            "reflection": true,
+            "title": "TDS | References | Guidelines",
+            "clicks": 0
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 4,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 7974,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe/141413/10",
+        "user_cakedate": "2021-12-28",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 4
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 4,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 508314,
+        "name": "Anupam Chandra",
+        "username": "iitmanupam",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png",
+        "created_at": "2024-07-29T11:31:46.654Z",
+        "cooked": "<aside class=\"quote group-ds-students\" data-username=\"Arun2\" data-post=\"10\" data-topic=\"141413\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/arun2/48/27130_2.png\" class=\"avatar\"> Arun2:</div>\n<blockquote>\n<p>I still didn’t complain since the difficulty is “real”, and not made-up like with BDM theory/project.</p>\n</blockquote>\n</aside>\n<p>Come on. I didn’t complain. I just gave my observations. In fact, the only time I really complained in this course was when I was suddenly left hanging because the ROE stopped 15 minutes before the time shown in the portal. That was then. After seeing the difficulty level of the repeat ROE from yesterday, I’ve decided that I’m one of the lucky ones who was able to attempt the ROE last Sunday, regardless of the mess up from the support team.</p>\n<p>I’ve also said many times on Discourse that I think this is one of the best courses at IITM and nothing about it should be changed. I don’t know how you got an S in spite of a poor ROE. For me, I will have to score a perfect 100% in the ET to get an S, so I was just being realisitic when I requested for additional assignments to give students a fighting chance to score an S.</p>",
+        "post_number": 11,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-07-29T11:32:20.708Z",
+        "reply_count": 2,
+        "reply_to_post_number": 10,
+        "quote_count": 1,
+        "incoming_link_count": 0,
+        "reads": 233,
+        "readers_count": 232,
+        "score": 71.2,
+        "yours": false,
+        "topic_id": 141413,
+        "topic_slug": "is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe",
+        "display_username": "Anupam Chandra",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15826,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe/141413/11",
+        "user_cakedate": "2023-01-25",
+        "user_birthdate": "1904-05-19",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 508329,
+        "name": "Arun",
+        "username": "Arun2",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/arun2/{size}/27130_2.png",
+        "created_at": "2024-07-29T12:10:28.624Z",
+        "cooked": "<p>Sorry, didn’t mean to say that you’re complaining. Meant literally that I didn’t complain despite the unusual difficulty level though this sort of thing is usually a cause for concern.</p>\n<p>Maybe we got some extra marks last term then, I’m not sure. (A student with better memory than me can chime in)</p>",
+        "post_number": 12,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-07-29T12:10:28.624Z",
+        "reply_count": 0,
+        "reply_to_post_number": 11,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 207,
+        "readers_count": 206,
+        "score": 55.8,
+        "yours": false,
+        "topic_id": 141413,
+        "topic_slug": "is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe",
+        "display_username": "Arun",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 15826,
+          "username": "iitmanupam",
+          "name": "Anupam Chandra",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 7974,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe/141413/12",
+        "user_cakedate": "2021-12-28",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 508348,
+        "name": "Smita Dhadhal",
+        "username": "23f1001749",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1001749/{size}/107968_2.png",
+        "created_at": "2024-07-29T12:44:46.522Z",
+        "cooked": "<p>At the beginning of every term they send you an email for the subjects you are eligible to become a TA. If you are interested you have to fill up the form given in the mail.</p>",
+        "post_number": 13,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-07-29T12:44:46.522Z",
+        "reply_count": 0,
+        "reply_to_post_number": 9,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 196,
+        "readers_count": 195,
+        "score": 43.8,
+        "yours": false,
+        "topic_id": 141413,
+        "topic_slug": "is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe",
+        "display_username": "Smita Dhadhal",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 13078,
+          "username": "Saransh_Saini",
+          "name": "Saransh Saini",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/saransh_saini/{size}/123495_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 19251,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe/141413/13",
+        "user_cakedate": "2023-06-08",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 508358,
+        "name": "Sarath E",
+        "username": "23f1001829",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1001829/{size}/68148_2.png",
+        "created_at": "2024-07-29T12:59:13.618Z",
+        "cooked": "<p><a class=\"mention\" href=\"/u/saransh_saini\">@Saransh_Saini</a> They will contact you before the start of term if you done well in a subject.<br>\n<a class=\"mention\" href=\"/u/arun2\">@Arun2</a> I think last term they gave an extra 5 mark bonus for the Roe mishap ?</p>",
+        "post_number": 14,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-07-29T12:59:13.618Z",
+        "reply_count": 0,
+        "reply_to_post_number": 9,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 199,
+        "readers_count": 198,
+        "score": 54.4,
+        "yours": false,
+        "topic_id": 141413,
+        "topic_slug": "is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe",
+        "display_username": "Sarath E",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 13078,
+          "username": "Saransh_Saini",
+          "name": "Saransh Saini",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/saransh_saini/{size}/123495_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 19444,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe/141413/14",
+        "user_cakedate": "2023-06-10",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 508534,
+        "name": "Yazad Pardiwala",
+        "username": "21f3001724",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3001724/{size}/132427_2.png",
+        "created_at": "2024-07-30T04:07:41.876Z",
+        "cooked": "<aside class=\"quote group-ds-students\" data-username=\"Arun2\" data-post=\"10\" data-topic=\"141413\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/arun2/48/27130_2.png\" class=\"avatar\"> Arun2:</div>\n<blockquote>\n<p>PS: There is no implication from any of my remarks that I will stop sharing RoE jokes/memes <img src=\"https://emoji.discourse-cdn.com/google/wink.png?v=12\" title=\":wink:\" class=\"emoji\" alt=\":wink:\" loading=\"lazy\" width=\"20\" height=\"20\"></p>\n</blockquote>\n</aside>\n<p>Where are these memes and where can I get them?</p>",
+        "post_number": 16,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-07-30T04:07:41.876Z",
+        "reply_count": 0,
+        "reply_to_post_number": 10,
+        "quote_count": 1,
+        "incoming_link_count": 0,
+        "reads": 184,
+        "readers_count": 183,
+        "score": 51.4,
+        "yours": false,
+        "topic_id": 141413,
+        "topic_slug": "is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe",
+        "display_username": "Yazad Pardiwala",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 11530,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe/141413/16",
+        "user_cakedate": "2022-01-19",
+        "reactions": [
+          {
+            "id": "laughing",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      },
+      {
+        "id": 601807,
+        "name": "Naman S. ",
+        "username": "namanshyamsukha",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/namanshyamsukha/{size}/108303_2.png",
+        "created_at": "2025-03-01T15:58:09.265Z",
+        "cooked": "<aside class=\"quote group-ds-students\" data-username=\"iitmanupam\" data-post=\"11\" data-topic=\"141413\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/48/56694_2.png\" class=\"avatar\"> iitmanupam:</div>\n<blockquote>\n<p>students a fighting chance to score an S.</p>\n</blockquote>\n</aside>\n<p>I agree with your points.</p>",
+        "post_number": 17,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2025-03-01T15:58:09.265Z",
+        "reply_count": 0,
+        "reply_to_post_number": 8,
+        "quote_count": 1,
+        "incoming_link_count": 1,
+        "reads": 92,
+        "readers_count": 91,
+        "score": 22.4,
+        "yours": false,
+        "topic_id": 141413,
+        "topic_slug": "is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe",
+        "display_username": "Naman S. ",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 15826,
+          "username": "iitmanupam",
+          "name": "Anupam Chandra",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 12334,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe/141413/17",
+        "user_cakedate": "2022-04-30",
+        "user_birthdate": "1904-01-11",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true
+      }
+    ],
+    "stream": [
+      508076,
+      508090,
+      508098,
+      508103,
+      508207,
+      508279,
+      508302,
+      508304,
+      508314,
+      508329,
+      508348,
+      508358,
+      508534,
+      601807
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      319
+    ],
+    [
+      13,
+      318
+    ],
+    [
+      14,
+      104
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 176077,
+      "title": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+      "fancy_title": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+      "slug": "project1-virtual-ta-discussion-thread-tds-may-2025",
+      "posts_count": 287,
+      "reply_count": 187,
+      "highest_post_number": 294,
+      "image_url": null,
+      "created_at": "2025-05-22T21:36:32.840Z",
+      "last_posted_at": "2025-06-13T06:37:01.858Z",
+      "bumped": true,
+      "bumped_at": "2025-06-13T06:37:01.858Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 274,
+      "unread": 0,
+      "new_posts": 20,
+      "unread_posts": 20,
+      "pinned": true,
+      "unpinned": null,
+      "excerpt": "Please post any questions related to Project 1 \nPlease use markdown code formatting (fenced code blocks beginning with ```) when sharing code (rather than screenshots). It’s easier for us to copy-paste and test. \nDeadlin&hellip;",
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": true,
+      "tags": [
+        "term2-2025",
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 109,
+      "views": 2042,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 15651,
+            "username": "Jivraj",
+            "name": "Jivraj Singh Shekhawat",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 17206,
+            "username": "23f1002231",
+            "name": "YashSinha",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002231/{size}/78871_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 31631,
+            "username": "Karvy",
+            "name": "Karvy Singh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/karvy/{size}/67600_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 22264,
+            "username": "23f2005430",
+            "name": "Reshav Sharma ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005430/{size}/87520_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 173525,
+      "title": "GA2 - Deployment Tools - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA2 - Deployment Tools - Discussion Thread [TDS May 2025]",
+      "slug": "ga2-deployment-tools-discussion-thread-tds-may-2025",
+      "posts_count": 128,
+      "reply_count": 60,
+      "highest_post_number": 135,
+      "image_url": null,
+      "created_at": "2025-05-01T11:41:51.750Z",
+      "last_posted_at": "2025-06-02T20:33:50.578Z",
+      "bumped": true,
+      "bumped_at": "2025-06-02T20:33:50.578Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 121,
+      "unread": 0,
+      "new_posts": 14,
+      "unread_posts": 14,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "term2-2025",
+        "graded-assignment"
+      ],
+      "tags_descriptions": {},
+      "like_count": 36,
+      "views": 1091,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 12314,
+            "username": "bhuvan",
+            "name": "Bhuvan Krishna",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/bhuvan/{size}/121831_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 20160,
+            "username": "SIDDHARTH_M",
+            "name": "SIDDHARTH M",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/siddharth_m/{size}/66955_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15651,
+            "username": "Jivraj",
+            "name": "Jivraj Singh Shekhawat",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 16594,
+            "username": "22f3002798",
+            "name": "Varma Mudunuri",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002798/{size}/68573_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 176644,
+      "title": "Project 1 deadline extension",
+      "fancy_title": "Project 1 deadline extension",
+      "slug": "project-1-deadline-extension",
+      "posts_count": 10,
+      "reply_count": 0,
+      "highest_post_number": 10,
+      "image_url": null,
+      "created_at": "2025-05-29T08:07:52.701Z",
+      "last_posted_at": "2025-06-02T05:33:44.600Z",
+      "bumped": true,
+      "bumped_at": "2025-06-02T05:33:44.600Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 4,
+      "unread": 0,
+      "new_posts": 6,
+      "unread_posts": 6,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "diploma-level",
+        "term2-2025"
+      ],
+      "tags_descriptions": {},
+      "like_count": 40,
+      "views": 177,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 23245,
+            "username": "23f3001439",
+            "name": "Siddarth S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3001439/{size}/87894_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 12950,
+            "username": "22f1001753",
+            "name": "Prateek Gupta",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f1001753/{size}/47479_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 30643,
+            "username": "Rajat_Raj",
+            "name": "Rajat Raj Singh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/rajat_raj/{size}/119975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 23587,
+            "username": "23f3001435",
+            "name": "Sonu kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3001435/{size}/66883_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 17041,
+            "username": "22f3003226",
+            "name": "Shibashish ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003226/{size}/97251_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 173524,
+      "title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "slug": "ga1-development-tools-discussion-thread-tds-may-2025",
+      "posts_count": 81,
+      "reply_count": 52,
+      "highest_post_number": 86,
+      "image_url": null,
+      "created_at": "2025-05-01T11:39:00.734Z",
+      "last_posted_at": "2025-05-31T18:44:32.559Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T18:44:32.559Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 63,
+      "unread": 0,
+      "new_posts": 23,
+      "unread_posts": 23,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "term2-2025",
+        "graded-assignment"
+      ],
+      "tags_descriptions": {},
+      "like_count": 25,
+      "views": 1224,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 22472,
+            "username": "Advaith52",
+            "name": "Advaith Sanil Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/advaith52/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15658,
+            "username": "HritikRoshan_HRM",
+            "name": "HRITIK ROSHAN MAURYA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hritikroshan_hrm/{size}/66975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 7234,
+            "username": "21f3000813",
+            "name": "Suraj mishra",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000813/{size}/12622_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 179012,
+      "title": "Doubt regarding Promptfoo in TDS Project 1",
+      "fancy_title": "Doubt regarding Promptfoo in TDS Project 1",
+      "slug": "doubt-regarding-promptfoo-in-tds-project-1",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/2/f/2f328f0d2e15090b63ef0e41cf6af8716d8cec12_2_1024x146.jpeg",
+      "created_at": "2025-06-12T18:11:01.776Z",
+      "last_posted_at": "2025-06-12T18:11:01.992Z",
+      "bumped": true,
+      "bumped_at": "2025-06-12T18:11:01.992Z",
+      "archetype": "regular",
+      "unseen": true,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "term2-2025"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 16,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 19273,
+            "username": "ayushpatel",
+            "name": "Ayush Patel",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ayushpatel/{size}/119480_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "tds",
+    "tds-roe"
+  ],
+  "tags_descriptions": {},
+  "id": 141413,
+  "title": "Is it fair to consider 20% weightage of such exam which is impossible to solve in given time (i.e. ROE)",
+  "fancy_title": "Is it fair to consider 20% weightage of such exam which is impossible to solve in given time (i.e. ROE)",
+  "posts_count": 14,
+  "created_at": "2024-07-29T02:42:05.573Z",
+  "views": 601,
+  "reply_count": 12,
+  "like_count": 49,
+  "last_posted_at": "2025-03-01T15:58:09.265Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe",
+  "category_id": 34,
+  "word_count": 1914,
+  "deleted_at": null,
+  "user_id": 17075,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": null,
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_141413",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 17,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 8,
+  "participant_count": 11,
+  "show_read_indicator": false,
+  "thumbnails": null,
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": [
+    {
+      "id": 126159,
+      "title": "Not clear regarding the TDS score",
+      "fancy_title": "Not clear regarding the TDS score",
+      "slug": "not-clear-regarding-the-tds-score",
+      "posts_count": 5,
+      "reply_count": 1,
+      "highest_post_number": 5,
+      "image_url": null,
+      "created_at": "2024-04-06T07:48:28.462Z",
+      "last_posted_at": "2024-04-10T04:55:07.346Z",
+      "bumped": true,
+      "bumped_at": "2024-04-10T04:55:07.346Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "operational"
+      ],
+      "tags_descriptions": {},
+      "like_count": 7,
+      "views": 152,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 923,
+            "username": "KAJAL_PARIKH",
+            "name": "KAJAL PARIKH",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/kajal_parikh/{size}/181_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 5225,
+            "username": "lokesh47",
+            "name": "Lokesh Kumar Mahawar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/lokesh47/{size}/692_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 14344,
+            "username": "22f2001152",
+            "name": "Lovleen Chadha",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2001152/{size}/1945_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 3009,
+            "username": "Amit1",
+            "name": "Amit Kumar Gupta",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/amit1/{size}/30210_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 81098,
+      "title": "ROE: TDS course",
+      "fancy_title": "ROE: TDS course",
+      "slug": "roe-tds-course",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": null,
+      "created_at": "2023-03-12T14:41:32.644Z",
+      "last_posted_at": "2023-03-12T14:41:32.782Z",
+      "bumped": true,
+      "bumped_at": "2023-03-12T14:41:32.782Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 64,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 5244,
+            "username": "21f1_002624",
+            "name": "Tanu Prasad",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f1_002624/{size}/476_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 111490,
+      "title": "Regarding the Programming Assignment",
+      "fancy_title": "Regarding the Programming Assignment",
+      "slug": "regarding-the-programming-assignment",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": null,
+      "created_at": "2023-12-08T10:50:16.082Z",
+      "last_posted_at": "2023-12-08T10:50:16.259Z",
+      "bumped": true,
+      "bumped_at": "2023-12-08T10:50:16.259Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "quiz"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 56,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 11621,
+            "username": "_Sarvesh",
+            "name": "Sarvesh Rajasekaran ",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/_/91b2a8/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 168476,
+      "title": "Concerns Regarding TDS Course Difficulty and Grading Fairness",
+      "fancy_title": "Concerns Regarding TDS Course Difficulty and Grading Fairness",
+      "slug": "concerns-regarding-tds-course-difficulty-and-grading-fairness",
+      "posts_count": 17,
+      "reply_count": 6,
+      "highest_post_number": 17,
+      "image_url": null,
+      "created_at": "2025-02-25T17:21:11.726Z",
+      "last_posted_at": "2025-02-28T13:48:45.642Z",
+      "bumped": true,
+      "bumped_at": "2025-02-28T13:48:45.642Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "diploma-level",
+        "term1-2025"
+      ],
+      "tags_descriptions": {},
+      "like_count": 157,
+      "views": 556,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 14374,
+            "username": "A_LAKSHMI",
+            "name": "A LAKSHMI",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/a_lakshmi/{size}/14204_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 17202,
+            "username": "22f3002811",
+            "name": "Aditya Gupta",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002811/{size}/66736_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 19088,
+            "username": "23f2001286",
+            "name": "Ayush Kumar Shaw ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2001286/{size}/67594_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 12334,
+            "username": "namanshyamsukha",
+            "name": "Naman S. ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/namanshyamsukha/{size}/108303_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 55433,
+      "title": "Suggestion about the ROE exam grading",
+      "fancy_title": "Suggestion about the ROE exam grading",
+      "slug": "suggestion-about-the-roe-exam-grading",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": null,
+      "created_at": "2022-06-28T08:26:09.917Z",
+      "last_posted_at": "2022-06-28T08:26:10.058Z",
+      "bumped": true,
+      "bumped_at": "2022-06-28T08:26:10.058Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "tds"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 54,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 7374,
+            "username": "Sumit2002",
+            "name": "Sumit Kumar Singh",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/s/8797f3/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "accepted_answer": {
+    "post_number": 3,
+    "username": "carlton",
+    "name": null,
+    "excerpt": "<a class=\"mention\" href=\"/u/23ds1000034\">@23ds1000034</a> <a class=\"mention\" href=\"/u/nandanreddyp\">@nandanreddyp</a> \nTDS ROE is a reality check on your true skills. Rather than face FAANG type tests when it really matters and get a shock that you are at the bottom of the pile, it is better you face reality now in an environment that does not unduly penalises you. \n\nThis situation is cau&hellip;",
+    "accepter_name": null,
+    "accepter_username": "Amit1"
+  },
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 7974,
+        "username": "Arun2",
+        "name": "Arun",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/arun2/{size}/27130_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 19251,
+        "username": "23f1001749",
+        "name": "Smita Dhadhal",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1001749/{size}/107968_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 15826,
+        "username": "iitmanupam",
+        "name": "Anupam Chandra",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 2
+      },
+      {
+        "id": 13078,
+        "username": "Saransh_Saini",
+        "name": "Saransh Saini",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/saransh_saini/{size}/123495_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 11530,
+        "username": "21f3001724",
+        "name": "Yazad Pardiwala",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3001724/{size}/132427_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 19444,
+        "username": "23f1001829",
+        "name": "Sarath E",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1001829/{size}/68148_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16094,
+        "username": "carlton",
+        "name": "Carlton D'Silva",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 3
+      },
+      {
+        "id": 15682,
+        "username": "nandanreddyp",
+        "name": "NandanReddy Parnapalli",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/nandanreddyp/{size}/111940_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 17075,
+        "username": "23ds1000034",
+        "name": "Sarfraz Ahmed",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds1000034/{size}/66738_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 12334,
+        "username": "namanshyamsukha",
+        "name": "Naman S. ",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/namanshyamsukha/{size}/108303_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 6563,
+        "username": "21f3000759",
+        "name": "Swati Jain",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      }
+    ],
+    "created_by": {
+      "id": 17075,
+      "username": "23ds1000034",
+      "name": "Sarfraz Ahmed",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds1000034/{size}/66738_2.png"
+    },
+    "last_poster": {
+      "id": 12334,
+      "username": "namanshyamsukha",
+      "name": "Naman S. ",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/namanshyamsukha/{size}/108303_2.png"
+    },
+    "links": [
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/navigating-job-requirements-what-tech-skills-matter/147489/2",
+        "title": "Navigating Job Requirements: What Tech Skills Matter",
+        "internal": true,
+        "attachment": false,
+        "reflection": true,
+        "clicks": 2,
+        "user_id": 22540,
+        "domain": "discourse.onlinedegree.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      },
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-tds-course-difficulty-and-grading-fairness/168476/9",
+        "title": "Concerns Regarding TDS Course Difficulty and Grading Fairness",
+        "internal": true,
+        "attachment": false,
+        "reflection": true,
+        "clicks": 1,
+        "user_id": 1,
+        "domain": "discourse.onlinedegree.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      }
+    ]
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

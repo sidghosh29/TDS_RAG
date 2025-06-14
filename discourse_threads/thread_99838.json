@@ -1,0 +1,1504 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 367620,
+        "name": "Ankit Jain",
+        "username": "ankit.jain",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ankit.jain/{size}/45086_2.png",
+        "created_at": "2023-08-26T13:19:45.481Z",
+        "cooked": "<p>This thread is <strong>not</strong> about:<br>\n<em>- request to change grading pattern</em><br>\n<em>- request to change ROE formula</em><br>\n<em>- request to grant free marks</em><br>\n<em>- to crib/cry for anything related to marks</em></p>\n<p>Here I wish to ask about:<br>\n<strong>Q.1:</strong> what is that learning, which this course want us to prove through ROE exam?<br>\n<strong>Q.2:</strong> Is it possible to answer 17 questions fairly without fluking within 30 minutes using formal methods? (just by solving them properly)<br>\n<strong>Q.3:</strong> What is the knowledge, using which I can solve all 17 questions within 30 minutes (without fluking &amp; without socializing/chatting/asking (with) others)?</p>\n<p>I feel, my Q3 is little bit combination of Q2 &amp; Q1, still I am looking forward for all 3 answers separately. Please help me to understand the real essence of this ROE quiz.</p>\n<p>Thanks in anticipation,</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 3,
+        "updated_at": "2023-08-26T13:21:03.978Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 85,
+        "reads": 1350,
+        "readers_count": 1349,
+        "score": 797.6,
+        "yours": false,
+        "topic_id": 99838,
+        "topic_slug": "whats-the-actual-purpose-of-impossible-roe-exam",
+        "display_username": "Ankit Jain",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-tds-course-difficulty-and-grading-fairness/168476/7",
+            "internal": true,
+            "reflection": true,
+            "title": "Concerns Regarding TDS Course Difficulty and Grading Fairness",
+            "clicks": 0
+          }
+        ],
+        "read": true,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 7,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 11698,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/whats-the-actual-purpose-of-impossible-roe-exam/99838/1",
+        "user_cakedate": "2022-01-29",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 7
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 7,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null,
+        "can_vote": false
+      },
+      {
+        "id": 368932,
+        "name": "Anand S",
+        "username": "s.anand",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+        "created_at": "2023-08-30T05:00:30.302Z",
+        "cooked": "<p><a class=\"mention\" href=\"/u/ankit.jain\">@ankit.jain</a> – I’m the culprit behind this RoE structure. Thanks for the opportunity to share my thought process.</p>\n<p><strong>What does this RoE evaluate?</strong> Implicit learning.</p>\n<ul>\n<li>Implicit learning is “How much can they answer if woken up from sleep?”</li>\n<li>Explicit learning is “How much can they answer given time and Internet?”</li>\n</ul>\n<p>Some may know 10% implicitly. Some know 50%. They’ll answer those in a few seconds.</p>\n<p>Some, they can FIND out. with Google, StackOverflow, ChatGPT. That’s explicit learning. But it takes time.</p>\n<p>Some, they just CAN’T find out. Maybe the terminology is unclear. Maybe their skill set is different.</p>\n<p>The RoE evaluates how much of learning is implicit. (Projects test how much is explicit.)</p>\n<p><strong>Can you answer 17 Q in 30 m?</strong> Hopefully not.</p>\n<p>I hope this is at the edge of the class’ competence. If multiple people answer all 17, I’ll suggest 20 Q in 30 m next time, or pick tougher questions.</p>\n<p>(This sounds harsh. Over time, though, I’ve come to value frank feedback over polite encouragement.)</p>\n<p><strong>What knowledge helps solve it this fast?</strong> Practice.</p>\n<p>3 strategies help.</p>\n<ol>\n<li><strong>Consistent practice</strong>. Practice regularly. Pick problems just outside the edge of competence (fail 50% of the time).</li>\n<li><strong>Social learning</strong>. Observe experts &amp; peers and internalize their strategies. We’re social animals and learn faster through mimicry.</li>\n<li><strong>Emotional engagement</strong>. If we like it or enjoy it, we learn faster. Practicing on real-world problems or problems we enjoy solving, working with people we enjoy, helps.</li>\n</ol>\n<p><strong>Is it worth it?</strong> Maybe not.</p>\n<p>Not all implicit learning is worth it.</p>\n<ol>\n<li>You may not need it. 10 years ago, as a data scientist, scraping was worth learning implicitly. Today, as a manager, I’d just hire someone to do it.</li>\n<li>You may not be good at it. When I got a “D” in German, followed by a “D” in Japanese, I realized I’m just not mentally wired for human languages. It’d be too much effort to learn.</li>\n</ol>\n<p>The RoE scores will give an idea of your implicit learning.</p>\n<p>But your time is limited. Implicit learning is costly. Please focus your time judiciously.</p>",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 3,
+        "updated_at": "2023-08-30T05:00:30.302Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1322,
+        "reads": 1306,
+        "readers_count": 1305,
+        "score": 7898.8,
+        "yours": false,
+        "topic_id": 99838,
+        "topic_slug": "whats-the-actual-purpose-of-impossible-roe-exam",
+        "display_username": "Anand S",
+        "primary_group_name": "faculty",
+        "flair_name": "faculty",
+        "flair_url": "chalkboard-user",
+        "flair_bg_color": "f2c26e",
+        "flair_color": "000",
+        "flair_group_id": 54,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/create-a-question-solving-groups-for-roe/168567/10",
+            "internal": true,
+            "reflection": true,
+            "title": "Create a Question solving groups for ROE",
+            "clicks": 6
+          },
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-references-guidelines/67216",
+            "internal": true,
+            "reflection": true,
+            "title": "TDS | References | Guidelines",
+            "clicks": 1
+          },
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-2-tds-solver-discussion-thread/169029/315",
+            "internal": true,
+            "reflection": true,
+            "title": "Project 2 - TDS Solver - Discussion Thread",
+            "clicks": 0
+          },
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/create-a-question-solving-groups-for-roe/168567/12",
+            "internal": true,
+            "reflection": true,
+            "title": "Create a Question solving groups for ROE",
+            "clicks": 0
+          }
+        ],
+        "read": true,
+        "user_title": "Course_faculty",
+        "title_is_group": true,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 69,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 9419,
+        "hidden": false,
+        "trust_level": 4,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/whats-the-actual-purpose-of-impossible-roe-exam/99838/2",
+        "user_cakedate": "2022-01-03",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 58
+          },
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 8
+          },
+          {
+            "id": "clap",
+            "type": "emoji",
+            "count": 2
+          },
+          {
+            "id": "confetti_ball",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 69,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 603547,
+        "name": "PURNENDU SHUKLA",
+        "username": "Learner_HS",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/learner_hs/{size}/13282_2.png",
+        "created_at": "2025-03-05T07:10:12.427Z",
+        "cooked": "<p>I check this term paper sir, I was written “This question paper is hackable”. What that meant?</p>",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 3,
+        "updated_at": "2025-03-05T07:10:12.427Z",
+        "reply_count": 0,
+        "reply_to_post_number": 2,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 255,
+        "readers_count": 254,
+        "score": 58.4,
+        "yours": false,
+        "topic_id": 99838,
+        "topic_slug": "whats-the-actual-purpose-of-impossible-roe-exam",
+        "display_username": "PURNENDU SHUKLA",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": true,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 9419,
+          "username": "s.anand",
+          "name": "Anand S",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 13371,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/whats-the-actual-purpose-of-impossible-roe-exam/99838/3",
+        "user_cakedate": "2022-05-05",
+        "user_birthdate": "1904-10-14",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      }
+    ],
+    "stream": [
+      367620,
+      368932,
+      603547
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      657
+    ],
+    [
+      2,
+      653
+    ],
+    [
+      3,
+      100
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 176077,
+      "title": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+      "fancy_title": "Project1 - Virtual TA - Discussion Thread [TDS May 2025]",
+      "slug": "project1-virtual-ta-discussion-thread-tds-may-2025",
+      "posts_count": 286,
+      "reply_count": 187,
+      "highest_post_number": 294,
+      "image_url": null,
+      "created_at": "2025-05-22T21:36:32.840Z",
+      "last_posted_at": "2025-06-13T06:37:01.858Z",
+      "bumped": true,
+      "bumped_at": "2025-06-13T06:37:01.858Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 274,
+      "unread": 0,
+      "new_posts": 20,
+      "unread_posts": 20,
+      "pinned": true,
+      "unpinned": null,
+      "excerpt": "Please post any questions related to Project 1 \nPlease use markdown code formatting (fenced code blocks beginning with ```) when sharing code (rather than screenshots). It’s easier for us to copy-paste and test. \nDeadlin&hellip;",
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": true,
+      "tags": [
+        "term2-2025",
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 109,
+      "views": 2046,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 15651,
+            "username": "Jivraj",
+            "name": "Jivraj Singh Shekhawat",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 17206,
+            "username": "23f1002231",
+            "name": "YashSinha",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002231/{size}/78871_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 31631,
+            "username": "Karvy",
+            "name": "Karvy Singh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/karvy/{size}/67600_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 22264,
+            "username": "23f2005430",
+            "name": "Reshav Sharma ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005430/{size}/87520_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 173525,
+      "title": "GA2 - Deployment Tools - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA2 - Deployment Tools - Discussion Thread [TDS May 2025]",
+      "slug": "ga2-deployment-tools-discussion-thread-tds-may-2025",
+      "posts_count": 128,
+      "reply_count": 60,
+      "highest_post_number": 135,
+      "image_url": null,
+      "created_at": "2025-05-01T11:41:51.750Z",
+      "last_posted_at": "2025-06-02T20:33:50.578Z",
+      "bumped": true,
+      "bumped_at": "2025-06-02T20:33:50.578Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 121,
+      "unread": 0,
+      "new_posts": 14,
+      "unread_posts": 14,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "term2-2025",
+        "graded-assignment"
+      ],
+      "tags_descriptions": {},
+      "like_count": 36,
+      "views": 1091,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 12314,
+            "username": "bhuvan",
+            "name": "Bhuvan Krishna",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/bhuvan/{size}/121831_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 20160,
+            "username": "SIDDHARTH_M",
+            "name": "SIDDHARTH M",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/siddharth_m/{size}/66955_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15651,
+            "username": "Jivraj",
+            "name": "Jivraj Singh Shekhawat",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 16594,
+            "username": "22f3002798",
+            "name": "Varma Mudunuri",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002798/{size}/68573_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 176644,
+      "title": "Project 1 deadline extension",
+      "fancy_title": "Project 1 deadline extension",
+      "slug": "project-1-deadline-extension",
+      "posts_count": 10,
+      "reply_count": 0,
+      "highest_post_number": 10,
+      "image_url": null,
+      "created_at": "2025-05-29T08:07:52.701Z",
+      "last_posted_at": "2025-06-02T05:33:44.600Z",
+      "bumped": true,
+      "bumped_at": "2025-06-02T05:33:44.600Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 4,
+      "unread": 0,
+      "new_posts": 6,
+      "unread_posts": 6,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "diploma-level",
+        "term2-2025"
+      ],
+      "tags_descriptions": {},
+      "like_count": 40,
+      "views": 177,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 23245,
+            "username": "23f3001439",
+            "name": "Siddarth S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3001439/{size}/87894_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 12950,
+            "username": "22f1001753",
+            "name": "Prateek Gupta",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f1001753/{size}/47479_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 30643,
+            "username": "Rajat_Raj",
+            "name": "Rajat Raj Singh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/rajat_raj/{size}/119975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 23587,
+            "username": "23f3001435",
+            "name": "Sonu kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3001435/{size}/66883_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 17041,
+            "username": "22f3003226",
+            "name": "Shibashish ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003226/{size}/97251_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 173524,
+      "title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "fancy_title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "slug": "ga1-development-tools-discussion-thread-tds-may-2025",
+      "posts_count": 81,
+      "reply_count": 52,
+      "highest_post_number": 86,
+      "image_url": null,
+      "created_at": "2025-05-01T11:39:00.734Z",
+      "last_posted_at": "2025-05-31T18:44:32.559Z",
+      "bumped": true,
+      "bumped_at": "2025-05-31T18:44:32.559Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 63,
+      "unread": 0,
+      "new_posts": 23,
+      "unread_posts": 23,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "term2-2025",
+        "graded-assignment"
+      ],
+      "tags_descriptions": {},
+      "like_count": 25,
+      "views": 1224,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 22472,
+            "username": "Advaith52",
+            "name": "Advaith Sanil Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/advaith52/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15658,
+            "username": "HritikRoshan_HRM",
+            "name": "HRITIK ROSHAN MAURYA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hritikroshan_hrm/{size}/66975_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 7234,
+            "username": "21f3000813",
+            "name": "Suraj mishra",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000813/{size}/12622_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 179012,
+      "title": "Doubt regarding Promptfoo in TDS Project 1",
+      "fancy_title": "Doubt regarding Promptfoo in TDS Project 1",
+      "slug": "doubt-regarding-promptfoo-in-tds-project-1",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/2/f/2f328f0d2e15090b63ef0e41cf6af8716d8cec12_2_1024x146.jpeg",
+      "created_at": "2025-06-12T18:11:01.776Z",
+      "last_posted_at": "2025-06-12T18:11:01.992Z",
+      "bumped": true,
+      "bumped_at": "2025-06-12T18:11:01.992Z",
+      "archetype": "regular",
+      "unseen": true,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "term2-2025"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 16,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 19273,
+            "username": "ayushpatel",
+            "name": "Ayush Patel",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ayushpatel/{size}/119480_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "tds-roe"
+  ],
+  "tags_descriptions": {},
+  "id": 99838,
+  "title": "What's the actual purpose of impossible ROE exam?",
+  "fancy_title": "What&rsquo;s the actual purpose of impossible ROE exam?",
+  "posts_count": 3,
+  "created_at": "2023-08-26T13:19:45.296Z",
+  "views": 1873,
+  "reply_count": 1,
+  "like_count": 76,
+  "last_posted_at": "2025-03-05T07:10:12.427Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "whats-the-actual-purpose-of-impossible-roe-exam",
+  "category_id": 34,
+  "word_count": 510,
+  "deleted_at": null,
+  "user_id": 11698,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": null,
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_99838",
+  "draft_sequence": 0,
+  "posted": false,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 3,
+  "last_read_post_number": 3,
+  "last_read_post_id": 603547,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 1,
+  "participant_count": 3,
+  "show_read_indicator": false,
+  "thumbnails": null,
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": [
+    {
+      "id": 168567,
+      "title": "Create a Question solving groups for ROE",
+      "fancy_title": "Create a Question solving groups for ROE",
+      "slug": "create-a-question-solving-groups-for-roe",
+      "posts_count": 15,
+      "reply_count": 8,
+      "highest_post_number": 15,
+      "image_url": null,
+      "created_at": "2025-02-26T15:49:28.271Z",
+      "last_posted_at": "2025-02-26T16:06:06.736Z",
+      "bumped": true,
+      "bumped_at": "2025-02-26T16:06:06.736Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "term1-2025",
+        "tds-roe"
+      ],
+      "tags_descriptions": {},
+      "like_count": 8,
+      "views": 149,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster, Accepted Answer",
+          "user": {
+            "id": 18297,
+            "username": "23f1002382",
+            "name": "Andrew David",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002382/{size}/68945_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 32468,
+            "username": "ItsMeAlex",
+            "name": "Manit Bohra",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/itsmealex/{size}/119167_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 36619,
+            "username": "trebhuvansb",
+            "name": "Trebhuvan SB",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/trebhuvansb/{size}/109875_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 19275,
+            "username": "23f1002279",
+            "name": "shivam dubey",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002279/{size}/66833_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 168142,
+      "title": "ROE instructions request",
+      "fancy_title": "ROE instructions request",
+      "slug": "roe-instructions-request",
+      "posts_count": 8,
+      "reply_count": 6,
+      "highest_post_number": 8,
+      "image_url": null,
+      "created_at": "2025-02-22T12:34:59.544Z",
+      "last_posted_at": "2025-02-24T08:59:27.794Z",
+      "bumped": true,
+      "bumped_at": "2025-02-24T08:59:27.794Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "diploma-level"
+      ],
+      "tags_descriptions": {},
+      "like_count": 10,
+      "views": 170,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 17736,
+            "username": "23f2000573",
+            "name": "B R GIRI SUBRAHMANYA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2000573/{size}/68306_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster, Accepted Answer",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 17433,
+            "username": "22f3002248",
+            "name": "Tanush Tambe",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002248/{size}/111205_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 20017,
+            "username": "Rishabh2",
+            "name": "Kumar Rishabh ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/rishabh2/{size}/66901_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 7795,
+            "username": "Yogesh1",
+            "name": "Yogesh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/yogesh1/{size}/32697_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 57339,
+      "title": "ROE TDS Scoring",
+      "fancy_title": "ROE TDS Scoring",
+      "slug": "roe-tds-scoring",
+      "posts_count": 13,
+      "reply_count": 8,
+      "highest_post_number": 13,
+      "image_url": null,
+      "created_at": "2022-07-12T04:40:02.566Z",
+      "last_posted_at": "2022-08-09T08:06:22.218Z",
+      "bumped": true,
+      "bumped_at": "2022-08-09T08:06:22.218Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 19,
+      "views": 647,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 3249,
+            "username": "Paras",
+            "name": "Paras Gupta",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/p/9de053/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster, Accepted Answer",
+          "user": {
+            "id": 6142,
+            "username": "Dixon",
+            "name": "Dixon",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/dixon/{size}/1027_2.png",
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 222,
+            "username": "rahul.sharma",
+            "name": "Rahul Sharma",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/rahul.sharma/{size}/26982_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 1762,
+            "username": "pphep",
+            "name": "Pooja Pareek",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/pphep/{size}/161_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 892,
+            "username": "Whysoserious",
+            "name": "S Nikhil Chowdary",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/whysoserious/{size}/114_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 81098,
+      "title": "ROE: TDS course",
+      "fancy_title": "ROE: TDS course",
+      "slug": "roe-tds-course",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": null,
+      "created_at": "2023-03-12T14:41:32.644Z",
+      "last_posted_at": "2023-03-12T14:41:32.782Z",
+      "bumped": true,
+      "bumped_at": "2023-03-12T14:41:32.782Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 64,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 5244,
+            "username": "21f1_002624",
+            "name": "Tanu Prasad",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f1_002624/{size}/476_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 81092,
+      "title": "ROE - very disappointed",
+      "fancy_title": "ROE - very disappointed",
+      "slug": "roe-very-disappointed",
+      "posts_count": 21,
+      "reply_count": 15,
+      "highest_post_number": 22,
+      "image_url": null,
+      "created_at": "2023-03-12T14:34:04.098Z",
+      "last_posted_at": "2023-03-13T21:19:04.341Z",
+      "bumped": true,
+      "bumped_at": "2023-03-13T21:19:04.341Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "oppe"
+      ],
+      "tags_descriptions": {},
+      "like_count": 30,
+      "views": 369,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 6984,
+            "username": "navinas",
+            "name": "Nongmaithem Avinash Singh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/navinas/{size}/15046_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3438,
+            "username": "Deepakh",
+            "name": "D P Deepakh Sharan",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/deepakh/{size}/178_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 769,
+            "username": "vikash",
+            "name": "Vikash Ram Mahuri",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/vikash/{size}/103483_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "Community-TA",
+            "flair_url": "handshake-angle",
+            "flair_bg_color": "717BF7",
+            "flair_color": "6BEE3D",
+            "flair_group_id": 89,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 12985,
+            "username": "bharath_raghu",
+            "name": "Bharath Raghunathan (B)",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/bharath_raghu/{size}/30920_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 1998,
+            "username": "Preetam",
+            "name": "Preetam Mukherjee",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/preetam/{size}/57403_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "notifications_reason_id": null,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 9419,
+        "username": "s.anand",
+        "name": "Anand S",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+        "post_count": 1,
+        "primary_group_name": "faculty",
+        "flair_name": "faculty",
+        "flair_url": "chalkboard-user",
+        "flair_color": "000",
+        "flair_bg_color": "f2c26e",
+        "flair_group_id": 54,
+        "trust_level": 4
+      },
+      {
+        "id": 11698,
+        "username": "ankit.jain",
+        "name": "Ankit Jain",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ankit.jain/{size}/45086_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 13371,
+        "username": "Learner_HS",
+        "name": "PURNENDU SHUKLA",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/learner_hs/{size}/13282_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      }
+    ],
+    "created_by": {
+      "id": 11698,
+      "username": "ankit.jain",
+      "name": "Ankit Jain",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ankit.jain/{size}/45086_2.png"
+    },
+    "last_poster": {
+      "id": 13371,
+      "username": "Learner_HS",
+      "name": "PURNENDU SHUKLA",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/learner_hs/{size}/13282_2.png"
+    },
+    "links": [
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/create-a-question-solving-groups-for-roe/168567/10",
+        "title": "Create a Question solving groups for ROE",
+        "internal": true,
+        "attachment": false,
+        "reflection": true,
+        "clicks": 6,
+        "user_id": 18297,
+        "domain": "discourse.onlinedegree.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      },
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-references-guidelines/67216",
+        "title": "TDS | References | Guidelines",
+        "internal": true,
+        "attachment": false,
+        "reflection": true,
+        "clicks": 1,
+        "user_id": 11707,
+        "domain": "discourse.onlinedegree.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      }
+    ]
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}
