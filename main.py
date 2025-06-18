@@ -150,9 +150,9 @@ async def answer_question(request: QueryRequest):
 
 ### 🚨 Rules
 
-1. **Only use the context provided** to generate answers.
-2. If you don't know the answer or the context is insufficient, **say: `I don't know.`**
-3. When the user provides an abbreviation (e.g. **GA = Graded Assignment**), make sure you understand and use it accordingly.
+1. **Use the context provided** to generate answers.
+2. If you don't know the answer or the context is insufficient, **say: `I don't know.` but if you are even 50 percent certain because certain post is relevant, provide an answer.**
+3. When the user provides an abbreviation (e.g. **GA = Graded Assignment**), make sure you understand and use it accordingly. For eg: GA4 is Graded Assignment 4. 
 4. Do **not** include any personal opinions, filler text, or unnecessary greetings.
 5. Never reference yourself (e.g. "As an AI...") or mention that you are a language model."""},
             {"role": "user", "content": f"Context:\n{context}\n\nQuestion: {full_query}"}

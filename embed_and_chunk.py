@@ -5,6 +5,7 @@ from tqdm import tqdm
 from typing import List
 from dotenv import load_dotenv
 from semantic_text_splitter import MarkdownSplitter
+import json
 
 load_dotenv()
 
@@ -59,7 +60,13 @@ def process_markdown_folder(folder_path: str, source_label: str, chunk_size: int
         # URL logic
         if source_label == "discourse":
             thread_id = fname.replace("thread_", "").replace(".md", "")
-            url = f"https://discourse.onlinedegree.iitm.ac.in/t/{thread_id}"
+            relevant_json_path = './discourse_threads/' + fname.replace(".md", ".json")
+            with open(relevant_json_path, 'r', encoding='utf-8') as json_file:
+                json_data = json.load(json_file)
+                # Extract the slug from the JSON data
+                slug = json_data["post_stream"]["posts"][0]["topic_slug"]
+
+            url = f"https://discourse.onlinedegree.iitm.ac.in/t/{slug}/{thread_id}"
             all_urls.extend([url]*len(chunks))
         elif source_label == "course":
             filename_without_ext = os.path.splitext(fname)[0]
@@ -71,7 +78,7 @@ def process_markdown_folder(folder_path: str, source_label: str, chunk_size: int
             if is_root_readme_or_index:
                 url = "https://tds.s-anand.net/#/README"
             else:
-                url = f"https://tds.s-anand.net/#/../{filename_without_ext}"
+                url = f"https://tds.s-anand.net/#/{filename_without_ext}"
             all_urls.extend([url]*len(chunks))
         else:
             all_urls.extend([""]*len(chunks))
